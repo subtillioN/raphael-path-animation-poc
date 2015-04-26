@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="1792" viewWidth="1612" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:seqID="1" d:layerType="page" d:pageHeight="1792" d:pageWidth="1612" d:type="layer" d:userLabel="Artboard 1">
+    <Group ai:seqID="2" d:type="layer" d:userLabel="Layer 1">
+      <Path x="520.477" y="744.584" winding="nonZero" ai:seqID="3" data="M117.508 0C52.0034 0 -0.249084 61.5054 0.000915527 123.01 0.25238 184.513 50.0043 246.015 117.508 246.015 186.512 246.015 537.535 246.015 608.539 246.015 678.044 246.015 731.296 184.512 730.544 123.008 729.795 61.5039 675.044 0 608.539 0 533.534
+ 0 189.513 0 117.508 0Z">
+        <fill>
+          <SolidColor color="#A7A9AC"/>
+        </fill>
+        <stroke>
+          <SolidColorStroke weight="1.00006" caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Path>
+      <Path x="520.476" y="1268.21" winding="nonZero" ai:seqID="4" data="M107.508 0C42.0035 0 -0.248901 61.5059 0.00109863 123.011 0.252563 184.514 40.0045 246.014 107.508 246.014 176.512 246.014 547.535 246.014 618.539 246.014 688.044 246.014 731.296 184.512 730.544 123.008 729.795 61.5029 685.044 0 618.539 0 543.534
+ 0 179.513 0 107.508 0Z">
+        <fill>
+          <SolidColor color="#A7A9AC"/>
+        </fill>
+        <stroke>
+          <SolidColorStroke weight="1.00006" caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Path>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>
